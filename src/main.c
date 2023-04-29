@@ -13,7 +13,7 @@ int main() {
         for (k = 1; k <= 2 * (size - i) + 1; k++) {
             printf("*");
         }
-        printf("\n");
+        printf("\n jake is cool");
     }
     
     return 0;
